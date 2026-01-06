@@ -18,7 +18,7 @@ A modern, full-screen Flappy Bird clone built with **pure HTML, CSS, and JavaScr
 </p>
 
 🎮 **Play the live demo:**  
-https://stephen-costa20.github.io/StevePingPong/
+https://stephen-costa20.github.io/BirdFlappy/
 
 <a href="https://stephen-costa20.github.io/BirdFlappy/" target="_blank">
   <img src="assets/screenshot.gif" alt="Ping Pong game preview" width="900" />

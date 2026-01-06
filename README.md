@@ -88,14 +88,6 @@ No libraries. No frameworks. No build tools.
 └── README.md
 ```
 
-
-## 📸 Screenshots
-
-Gameplay preview:
-
-![Gameplay GIF](assets/screenshot.gif)
-
-
 ## 🌱 Ideas for Future Enhancements
 
 - Sound effects and background music

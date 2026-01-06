@@ -83,7 +83,6 @@ No libraries. No frameworks. No build tools.
 ## 📁 Project Structure
 
 ```text
-/
 ├── index.html
 ├── assets/
 │   └── screenshot.gif

